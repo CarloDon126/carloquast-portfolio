@@ -1,6 +1,20 @@
-CARLO QUAST FOTOGRAFIE – kostenlose Portfolio-Website
+CARLO QUAST FOTOGRAFIE – Portfolio v2
 
-1. Öffne index.html lokal im Browser, um die Seite zu testen.
-2. Ersetze später die Bilder im Ordner images/ durch deine finalen Fotos.
-3. Die Texte und Kontaktdaten stehen direkt in index.html.
-4. Für die kostenlose Veröffentlichung: GitHub Pages verwenden.
+Diese Version enthält:
+- index.html – Startseite
+- portfolio.html – Portfolio-Übersicht
+- hunde.html – echte Tiergalerie mit deinen vorhandenen Fotos
+- weitere.html – weitere Arbeiten
+- portraits.html – vorbereitete Portrait-Seite
+- hochzeiten.html – vorbereitete Hochzeits-Seite
+- iris.html – vorbereitete Iris-Seite
+- produkte.html – vorbereitete Produktseite
+- style.css – gemeinsames Design
+- script.js – mobile Navigation
+- Bilder im Hauptordner – passend zu deinem bisherigen GitHub-Aufbau
+
+UPLOAD:
+1. Entpacken.
+2. Im GitHub Repository alle Dateien ersetzen/hochladen.
+3. Bilder nicht in einen images-Ordner verschieben.
+4. GitHub Pages baut die Seite automatisch neu.
